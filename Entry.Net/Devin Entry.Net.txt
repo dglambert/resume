@@ -1,0 +1,74 @@
+Devin Gleason-Lambert
+Entry Level .Net Developer
+
+(781) 462-5615
+26 High St,
+Rockport, MA, 01966
+dglambert@outlook.com
+
+I am a technologist at heart, a deep love for technology is how I got here. I have been dismantling hardware and fixing software since I was ten. I spent the last several years in Help desk related positions and decided I wanted something more challenging and left IT to move onto software. I have finished my computer science coursework and am now working on building a portfolio around the .NET framework and networking with other developers and am falling in love with the field all over again.
+
+SYSTEMS EXPERIENCE:
+ 
+C#
+HTML/CSS
+JavaScript
+SQL
+Visual Studio
+ 
+GROUPS & ACTIVITIES:
+ 
+Salem State University Programming Club
+Boston Windows App and Game Developers
+Boston Windows 8 App Developers and IT Group
+Microsoft DevBoston
+Boston Software Craftsmanship
+Greater Boston Entry Developers
+ 
+EXPERIENCE:
+
+Planit											04/2013 - Present
+	
+	Team Development Project
+	• Frontend Technologies – HTML, CSS, JavaScript
+	• Backend Technologies – .NET, C#, ASP.NET, SQL
+	• Web Technologies - Azure
+	• Version Control – Git, Github (https://github.com/Project6/Planit)  
+	• Software Process – Lending from Agile, we focus on one week sprints, a product backlog, TDD, sharing responsibilities of Product Owner and Manager between 3 team members.
+
+SB Sound Board										12/2013 - Present
+	
+	Individual Development Project
+	• Microsoft technologies - .NET, C#, XAML
+	• Version Control – Git, Github (https://github.com/dglambert/SB-Sound-Board)
+	• Software Process – Test Driven Development, One Week Sprints
+
+Greater Boston Entry Developers								12/2013 - Present
+	
+	Founder / Organizer
+	• Connecting university graduates and entry developers over the common interest of software development in the Greater Boston Area.
+	• Creating an environment to discuss resources, find guidance, network with each other, and experience mutual support that doesn’t exist in the academic environment. 
+	• Planning meetups, thinking up blog posts including guest authors, setting up an online chat platform, a website, and other activities all to help Entry Dev’s find placement and make leveraging connections in the field.
+	• Reaching out to key players in the market to help this group grow and thrive.
+	
+Best Buy Geek Squad, Danvers, MA							09/2008 – 11/2011
+	
+	Senior “Supervisor”
+	• Promoted from Technician to Supervisor after two years of employment.
+	• Maintained overall responsibilities of the department.
+	• Prevented and resolved any client issues.
+	• Trained incoming employees and aided continual development to achieve personal growth.
+	• Managed department 100% to all budgets, turn-times, and satisfaction goals.
+	• Assumed roles of technician and/or any other position in the store during high volume periods and absences.   
+	
+	Counter Intelligence Agent “Technician”
+	• Assisted clients with repairs and upgrades.
+	• Conducted virus removal, ran diagnostics and repaired software issues (self-inflicted and foreign), performed network troubleshooting, and replaced faulty hardware.
+	• Always prevented issues from escalating to my supervisors/managers, and when it did I would come with a solution.
+	• Answered questions on products carried by Best Buy and services offered by Geek Squad.
+
+EDUCATION:	
+Salem State University, Salem, MA					           Anticipated Graduation 2015
+Bachelor of Computer Science	
+
+
