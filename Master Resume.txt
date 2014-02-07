@@ -1,0 +1,116 @@
+Devin Gleason-Lambert	
+26 High St Rockport, MA 01966
+(781) 462-5615
+dglambert@outlook.com
+
+I am a technologist at heart, a deep love for technology is how I got here. I have been dismantling hardware and fixing software since I was ten. I spent the last several years in Help desk related positions and decided I wanted something more challenging and left IT to move onto software. I have finished my computer science coursework and am now working on building a portfolio around the .NET framework and networking with other developers and am falling in love with the field all over again.
+
+
+EDUCATION:	
+Salem State University, Salem, MA					           Anticipated Graduation 2015
+Bachelors of Computer Science		
+
+North Shore Community College, Danvers, MA							2008 - 2011
+Associates of Computer Science
+
+Community College of Vermont, Rutland, VT							2007 - 2008
+Associates of Computer Science
+
+							
+GROUPS & ACTIVITIES:
+Salem State University Programming Club
+Boston Windows App and Game Developers
+Boston Windows 8 App Developers and IT Group
+Microsoft DevBoston
+Boston Software Craftsmanship
+Greater Boston Entry Developers
+ 
+
+
+SPECIAL SKILLS / COURSEWORK	
+
+	• Proficient in Computer Software & Hardware
+	• Ability to Lead without Authority
+	• Excellent People Skills
+	• Introduction to Business
+	• Micro & Macro Economics
+
+
+Systems Experience
+ 
+Java
+C#
+C/ C++
+SQL
+Python
+PHP
+Perl
+NetBeans 
+HTML/CSS/JavaScript
+Visual Studio
+			
+						
+RELATED EXPERIENCE:
+
+Planit											
+	Team Development Project								04/2013 - Present
+	• Frontend Technologies – HTML, CSS, JavaScript
+	• Backend Technologies – .NET, C#, ASP.NET, SQL
+	• Web Technologies - Azure
+	• Version Control – Git, Github (https://github.com/Project6/Planit)  
+	• Software Process – Lending from Agile, we focus on one week sprints, a product backlog, TDD, sharing responsibilities of Product Owner and Manager between 3 team members.
+
+SB Sound Board										
+	Individual Development Project								12/2013 - Present
+	• Microsoft technologies - .NET, C#, XAML
+	• Version Control – Git, Github (https://github.com/dglambert/SB-Sound-Board)
+	• Software Process – Test Driven Development, One Week Sprints
+
+Greater Boston Entry Developers								
+	Founder / Organizer									12/2013 - Present
+	• Connecting university graduates and entry developers over the common interest of software development in the Greater Boston Area.
+	• Creating an environment to discuss resources, find guidance, network with each other, and experience mutual support that doesn’t exist in the academic environment. 
+	• Planning meetups, thinking up blog posts including guest authors, setting up an online chat platform, a website, and other activities all to help Entry Dev’s find placement and make leveraging connections in the field.
+	• Reaching out to key players in the market to help this group grow and thrive.
+
+Best Buy Geek Squad, Danvers, MA							
+	Senior “Supervisor”									09/2008 – 11/2011
+	• Promoted from Technician to Supervisor after two years of employment.
+	• Maintained overall responsibilities of the department.
+	• Prevented and resolved any client issues.
+	• Trained incoming employees and aided continual development to achieve personal growth.
+	• Managed department 100% to all budgets, turn-times, and satisfaction goals.
+	• Assumed roles of technician and/or any other position in the store during high volume periods and absences.   
+	
+	Counter Intelligence Agent “Technician”
+	• Assisted clients with repairs and upgrades.
+	• Conducted virus removal, ran diagnostics and repaired software issues (self-inflicted and foreign), performed network troubleshooting, and replaced faulty hardware.
+	• Always prevented issues from escalating to my supervisors/managers, and when it did I would come with a solution.
+	• Answered questions on products carried by Best Buy and services offered by Geek Squad.
+
+
+Staples, Rutland, VT										
+	Easy Tech “Technician”									2007 – 2008
+	• Helped customers with mostly upgrades and some repairs consisting of memory upgrades, virus removals, and HDD replacement.
+	• Sold computers and services offered by Staples.
+	• Achieved greatest service plan sales Employee of 2008.
+
+Radio Shack, Rutland, VT						
+	Sales Associate										2007 – 2008
+	• Offered products and services carried by Radio Shack.
+	• Keeping track of commission based sales.
+
+Foot Locker, Rutland, VT									
+	Sales Associate										2006 – 2007
+	• Assisted customers with buying shoes.
+	• Offered shoe accessories.
+	• Kept track of accessories and other sales goals
+
+
+McDonalds, Rutland, VT										
+	Cashier / Food Preparation								2005 – 2006
+	• Ordered and prepared food for customer.
+	• Keeping area clean while at work.
+	• Offering friendly customer service.
+
+
