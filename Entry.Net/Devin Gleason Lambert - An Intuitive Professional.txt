@@ -20,7 +20,8 @@ GROUPS & ACTIVITIES:
  
 Salem State University Programming Club
 Boston Windows App and Game Developers
-Boston Windows 8 App Developers and IT Group
+Windows Apps - Boston Developers Group
+South Shore .NET Users Group
 Microsoft DevBoston
 Boston Software Craftsmanship
 Greater Boston Entry Developers
